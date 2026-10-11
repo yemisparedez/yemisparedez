@@ -6,6 +6,7 @@
   <a href="https://www.instagram.com/yemis_paredez/"><img src="./assets/contact-instagram.svg" alt="Instagram — @yemis_paredez" width="176" /></a>
   <a href="https://www.facebook.com/yemiseliseo.paredezquispe"><img src="./assets/contact-facebook.svg" alt="Facebook — Yemis Paredez" width="176" /></a>
   <a href="https://wa.me/51951139483"><img src="./assets/contact-whatsapp.svg" alt="WhatsApp — Send me a message" width="176" /></a>
+  <a href="mailto:yemispredez14@gmail.com"><img src="./assets/contact-email.svg" alt="Email — yemispredez14@gmail.com" width="280" /></a>
 </p>
 
 ### About me
