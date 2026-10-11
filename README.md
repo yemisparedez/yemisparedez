@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/yens10"><img src="https://img.shields.io/badge/GitHub-yens10-0D1117?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub yens10"/></a>
-  <img src="https://img.shields.io/badge/Based_in-Peru-1F6FEB?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Based in Peru"/>
-  <img src="https://img.shields.io/badge/Focus-Digital_Platforms-163C6F?style=flat-square" alt="Digital Platforms"/>
+  <a href="https://www.instagram.com/yemis_paredez/"><img src="./assets/contact-instagram.svg" alt="Instagram — @yemis_paredez" width="176" /></a>
+  <a href="https://www.facebook.com/yemiseliseo.paredezquispe"><img src="./assets/contact-facebook.svg" alt="Facebook — Yemis Paredez" width="176" /></a>
+  <a href="https://wa.me/51951139483"><img src="./assets/contact-whatsapp.svg" alt="WhatsApp — Send me a message" width="176" /></a>
 </p>
 
 ### About me
