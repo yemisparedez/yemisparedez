@@ -1,47 +1,43 @@
-# Yemis Paredez
+<div align="center">
+  <img src="./assets/profile-header.svg" alt="Yemis Paredez — Software Developer and Co-Founder & CTO at Arxatec" width="100%" />
+</div>
 
-**Software Developer · Co-Founder & CTO at Arxatec**
+<p align="center">
+  <a href="https://github.com/yens10"><img src="https://img.shields.io/badge/GitHub-yens10-0D1117?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub yens10"/></a>
+  <img src="https://img.shields.io/badge/Based_in-Peru-1F6FEB?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Based in Peru"/>
+  <img src="https://img.shields.io/badge/Focus-Digital_Platforms-163C6F?style=flat-square" alt="Digital Platforms"/>
+</p>
 
-📍 Peru &nbsp;·&nbsp; 💻 Full-Stack Development &nbsp;·&nbsp; 🔹 Digital Transformation
+### About me
 
-I build practical digital solutions, with a focus on reliable web applications, maintainable software, and accessible digital services.
+I'm a software developer interested in **full-stack engineering**, **software architecture**, and **digital transformation**. I focus on building maintainable web applications and useful digital experiences, including services that improve how people interact with public institutions.
 
----
+At **Arxatec**, I work as **Co-Founder & CTO**, combining software development with technical direction.
 
-### About
+### Tech stack
 
-I'm a software developer interested in full-stack engineering, software architecture, and digital transformation. My work includes institutional web platforms and digital services that make technology more useful and accessible.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,nestjs,postgres,python,git,vite&amp;perline=11&amp;theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Node.js, NestJS, PostgreSQL, Python, Git and Vite" />
+</p>
 
-- **Co-Founder & CTO** at Arxatec
-- Building digital experiences for public-sector services
-- Focused on thoughtful design, maintainability, and software quality
-
-### Technologies
-
-**Frontend** &nbsp; `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
-
-**Backend** &nbsp; `Node.js` · `NestJS`
-
-**Database** &nbsp; `PostgreSQL`
-
-**Tools & languages** &nbsp; `Git` · `GitHub` · `Python` · `Vite`
+<sub>React · TypeScript · JavaScript · HTML · CSS · Node.js · NestJS · PostgreSQL · Python · Git · Vite</sub>
 
 ### Selected work
 
-**🔹 MDPB-Platform** &nbsp; `Private project`
+<img src="./assets/mdpb-platform.svg" alt="MDPB-Platform — Institutional portal and digital citizen services (private project)" width="100%" />
 
-Institutional web platform for the District Municipality of Puerto Bermúdez, Peru. It brings together municipal information, tourism content, virtual document submission, and public case tracking.
+Institutional web platform for the **District Municipality of Puerto Bermúdez, Peru**. My work focuses on the public-facing website and integration with existing document-management services, including virtual submissions and public tracking. The underlying document-management system is a separate project.
 
-`React` · `TypeScript` · `Vite`
+<img src="./assets/arxatec.svg" alt="Arxatec — Software products and technology solutions (private project)" width="100%" />
 
-**🔹 Arxatec** &nbsp; `Private project`
+A software development initiative where I contribute to product engineering and technical direction.
 
-Software development initiative focused on digital products and technology solutions. My role includes technical direction, development, and technology decisions.
+<sub>Both projects are private repositories; their source code is not publicly accessible.</sub>
 
 ### Connect
 
-[GitHub](https://github.com/yens10) &nbsp;·&nbsp; [Portfolio repository](https://github.com/yens10/portafolio)
+[GitHub](https://github.com/yens10) · [Portfolio repository](https://github.com/yens10/portafolio)
 
 ---
 
-<sub>Building useful software with purpose and attention to detail.</sub>
+<p align="center"><sub>Building useful software with purpose and attention to detail.</sub></p>
