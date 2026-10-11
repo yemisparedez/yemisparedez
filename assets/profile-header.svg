@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="274" viewBox="0 0 1100 274" role="img" aria-labelledby="title desc">
+<title id="title">Yemis Paredez — Software Developer</title>
+<desc id="desc">Minimal dark GitHub profile header with blue accents and role information.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#111D30"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#1F6FEB"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="272" rx="18" fill="url(#bg)" stroke="#24354D" stroke-width="2"/>
+<rect x="30" y="32" width="5" height="209" rx="2.5" fill="url(#line)"/>
+<text x="62" y="70" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">SOFTWARE DEVELOPMENT  /  PERU</text>
+<text x="60" y="133" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700">Yemis Paredez</text>
+<text x="63" y="173" fill="#CAD5E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">Software Developer</text>
+<circle cx="284" cy="167" r="3" fill="#58A6FF"/>
+<text x="297" y="173" fill="#9BBEEB" font-family="Arial, Helvetica, sans-serif" font-size="22">Co-Founder &amp; CTO at Arxatec</text>
+<text x="63" y="218" fill="#9BAEC4" font-family="Arial, Helvetica, sans-serif" font-size="19">Building reliable platforms and useful digital experiences.</text>
+<circle cx="973" cy="128" r="72" fill="#162943" stroke="#294A73" stroke-width="2"/>
+<path d="M960 99L929 127L960 155M986 99L1017 127L986 155" fill="none" stroke="#58A6FF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M984 89L965 165" fill="none" stroke="#87BDFF" stroke-width="6" stroke-linecap="round"/>
+<circle cx="1085" cy="16" r="4" fill="#58A6FF" opacity=".75"/>
+</svg>
