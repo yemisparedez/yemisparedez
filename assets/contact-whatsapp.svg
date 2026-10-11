@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="52" viewBox="0 0 196 52" role="img" aria-label="WhatsApp">
+<title>WhatsApp</title>
+<rect x="1" y="1" width="194" height="50" rx="10" fill="#111B29" stroke="#30435D" stroke-width="1.5"/>
+<path d="M2 12 Q2 2 12 2" fill="none" stroke="#25D366" stroke-width="2"/>
+<path d="M32.5 8.6a16.8 16.8 0 0 0-14.6 25.2l-2 7.3 7.5-2a16.8 16.8 0 1 0 9.1-30.5Z" fill="none" stroke="#25D366" stroke-width="2.8" stroke-linejoin="round"/><path d="M27 17.5c-.8-1.1-1.3-.9-2.2-.5-1.7 1.1-1.5 3.4-.3 5.8 2.1 4.5 6.2 8.7 11.3 10.2 2.6.8 4.4.8 5.5-.6.5-.7 1.3-2.6.5-3.1l-4.3-2.1c-.7-.3-1-.2-1.5.3l-1.8 1.6c-3-1.3-5.2-3.4-6.7-6.5l1.3-1.4c.5-.5.6-1 .3-1.7l-2-4.2Z" fill="#25D366" stroke="#25D366" stroke-width=".5" stroke-linejoin="round"/>
+<text x="64" y="32.5" fill="#ECF2FB" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="18">WhatsApp</text>
+</svg>
