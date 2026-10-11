@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="52" viewBox="0 0 196 52" role="img" aria-label="Instagram">
+<title>Instagram</title>
+<rect x="1" y="1" width="194" height="50" rx="10" fill="#111B29" stroke="#30435D" stroke-width="1.5"/>
+<path d="M2 12 Q2 2 12 2" fill="none" stroke="#E4405F" stroke-width="2"/>
+<rect x="20" y="13" width="25" height="25" rx="7" fill="none" stroke="#E4405F" stroke-width="2.8"/><circle cx="32.5" cy="25.5" r="6" fill="none" stroke="#E4405F" stroke-width="2.8"/><circle cx="40.3" cy="17.8" r="1.9" fill="#E4405F"/>
+<text x="64" y="32.5" fill="#ECF2FB" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="18">Instagram</text>
+</svg>
