@@ -6,8 +6,8 @@
 <text x="145" y="48" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Arxatec</text>
 <text x="145" y="79" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">Software products and technology solutions</text>
 <text x="145" y="110" fill="#C3CDDD" font-family="Arial, Helvetica, sans-serif" font-size="18">Development, technical direction and product engineering.</text>
-<rect x="145" y="130" width="410" height="35" rx="8" fill="#182A43"/>
-<text x="161" y="153" fill="#B7D7FF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">SOFTWARE DEVELOPMENT    /    TECHNICAL LEADERSHIP</text>
+<rect x="145" y="130" width="620" height="35" rx="8" fill="#182A43"/>
+<text x="161" y="153" fill="#B7D7FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">SOFTWARE DEVELOPMENT    /    TECHNICAL LEADERSHIP</text>
 <rect x="897" y="22" width="172" height="31" rx="15" fill="#182B41" stroke="#385677" stroke-width="1"/>
 <text x="983" y="43" text-anchor="middle" fill="#9DBEE2" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">PRIVATE PROJECT</text>
 </svg>
