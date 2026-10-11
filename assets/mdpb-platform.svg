@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-label="MDPB-Platform">
+<rect x="1" y="1" width="1098" height="188" rx="15" fill="#101925" stroke="#293C57" stroke-width="2"/>
+<rect x="1" y="28" width="5" height="134" rx="2.5" fill="#388BFD"/>
+<rect x="23" y="30" width="95" height="95" rx="14" fill="#152A43"/>
+<path d="M35 85H79V35L57 24L35 35V85ZM44 43H50M63 43H69M44 57H50M63 57H69M44 71H50M63 71H69M55 85V76H60V85" fill="none" stroke="#58A6FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M27 85H87" stroke="#58A6FF" stroke-width="4" stroke-linecap="round"/>
+<text x="145" y="48" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">MDPB-Platform</text>
+<text x="145" y="79" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">Institutional portal and digital citizen services</text>
+<text x="145" y="110" fill="#C3CDDD" font-family="Arial, Helvetica, sans-serif" font-size="18">Municipal information, tourism and document-workflow integrations.</text>
+<rect x="145" y="130" width="410" height="35" rx="8" fill="#182A43"/>
+<text x="161" y="153" fill="#B7D7FF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">REACT    /    TYPESCRIPT    /    VITE</text>
+<rect x="897" y="22" width="172" height="31" rx="15" fill="#182B41" stroke="#385677" stroke-width="1"/>
+<text x="983" y="43" text-anchor="middle" fill="#9DBEE2" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">PRIVATE PROJECT</text>
+</svg>
