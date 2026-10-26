@@ -1,19 +1,16 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="Yemis Paredez — Software Developer and Co-Founder & CTO at Arxatec" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Yemis Paredez — Software Developer" width="100%" />
 </div>
 
 <p align="center">
-  <a href="https://www.instagram.com/yemis_paredez/" title="Instagram"><img src="./assets/contact-instagram.svg" alt="Instagram" width="144" /></a>
-  <a href="https://www.facebook.com/yemiseliseo.paredezquispe" title="Facebook"><img src="./assets/contact-facebook.svg" alt="Facebook" width="144" /></a>
-  <a href="https://wa.me/51951139483" title="WhatsApp"><img src="./assets/contact-whatsapp.svg" alt="WhatsApp" width="144" /></a>
-  <a href="mailto:yemispredez14@gmail.com" title="Email: yemispredez14@gmail.com"><img src="./assets/contact-email.svg" alt="Email" width="144" /></a>
+  <a href="https://linktr.ee/yemis_paredez" title="Contact me and find my social links on Linktree"><img src="./assets/contact-linktree.svg" alt="Contact and social links — Linktree" width="240" /></a>
 </p>
 
 ### About me
 
-I'm a software developer interested in **full-stack engineering**, **software architecture**, and **digital transformation**. I focus on building maintainable web applications and useful digital experiences, including services that improve how people interact with public institutions.
+I'm **Yemis Paredez**, a software developer based in Peru with a focus on **full-stack engineering**, **software architecture**, and **digital transformation**. I build maintainable web applications and practical digital solutions that simplify processes and improve the experience of the people who use them.
 
-At **Arxatec**, I work as **Co-Founder & CTO**, combining software development with technical direction.
+I'm particularly interested in reliable systems, thoughtful user interfaces, and technology that makes organizations and public services more accessible and efficient.
 
 ### Tech stack
 
