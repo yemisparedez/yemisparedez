@@ -35,4 +35,4 @@ Me interesa convertir requisitos complejos en sistemas mantenibles, incluidas so
 
 ---
 
-<p align="center"><sub>If you can imagine it, you can program it.</sub></p>
+<p align="center"><strong>IF YOU CAN IMAGINE IT, YOU CAN PROGRAM IT.</strong></p>
