@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52" role="img" aria-label="Contact and social links on Linktree">
+<title>Contact &amp; links — Linktree</title>
+<rect x="1" y="1" width="238" height="50" rx="10" fill="#111B29" stroke="#30435D" stroke-width="1.5"/>
+<path d="M2 12 Q2 2 12 2" fill="none" stroke="#58A6FF" stroke-width="2"/>
+<path d="M29 20l-5 5a7 7 0 009.9 9.9l5-5M35 32l5-5a7 7 0 00-9.9-9.9l-5 5" stroke="#58A6FF" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="61" y="32.5" fill="#ECF2FB" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="18">Contact &amp; links</text>
+</svg>
