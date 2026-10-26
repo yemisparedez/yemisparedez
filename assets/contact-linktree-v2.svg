@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="42" viewBox="0 0 216 42" role="img" aria-labelledby="title desc">
+<title id="title">Connect with me</title>
+<desc id="desc">One link to contact details and social profiles</desc>
+<rect x="0.75" y="0.75" width="214.5" height="40.5" rx="9" fill="#111B29" stroke="#30435D" stroke-width="1.5"/>
+<circle cx="24" cy="21" r="12" fill="#1A3452"/>
+<path d="M20 24.5L26.5 18M19.2 19.8L16.5 22.5A4.4 4.4 0 0022.7 28.7L25.4 26M23 16L25.7 13.3A4.4 4.4 0 0131.9 19.5L29.2 22.2" fill="none" stroke="#79BAFF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="46" y="26.4" fill="#ECF2FB" font-family="Arial, Helvetica, sans-serif" font-size="15.5" font-weight="600">Connect with me</text>
+<path d="M184 25L198 11M190 11H198V19" fill="none" stroke="#79BAFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
