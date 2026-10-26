@@ -35,4 +35,4 @@ Me interesa convertir requisitos complejos en sistemas mantenibles, incluidas so
 
 ---
 
-<p align="center"><sub>Building useful software with purpose and attention to detail.</sub></p>
+<p align="center"><sub>Si lo puedes imaginar, lo puedes programar.</sub></p>
