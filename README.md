@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="Yemis Paredez — Software Developer" width="100%" />
+  <img src="./assets/profile-header-v2.svg" alt="Yemis Paredez — Software Developer" width="100%" />
 </div>
-
-<p align="center">
-  <a href="https://linktr.ee/yemis_paredez" title="Contact me and find my social links on Linktree"><img src="./assets/contact-linktree.svg" alt="Contact and social links — Linktree" width="240" /></a>
-</p>
 
 ### About me
 
 I'm **Yemis Paredez**, a software developer based in Peru with a focus on **full-stack engineering**, **software architecture**, and **digital transformation**. I build maintainable web applications and practical digital solutions that simplify processes and improve the experience of the people who use them.
 
 I'm particularly interested in reliable systems, thoughtful user interfaces, and technology that makes organizations and public services more accessible and efficient.
+
+<p align="left">
+  <a href="https://linktr.ee/yemis_paredez" title="Contact details and social profiles"><img src="./assets/contact-linktree-v2.svg" alt="Connect with me — contact and social links" width="216" /></a>
+</p>
 
 ### Tech stack
 
